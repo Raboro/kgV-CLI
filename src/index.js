@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-'use strict'
+'use strict';
 
 const yargs = require('yargs');
 
@@ -18,7 +18,7 @@ console.log(calcKGV(options.v));
 
 function calcKGV(...values) {
     values = values[0];
-    let kgv =  values[0];
+    let kgv = values[0];
     for (const value of values) {
         kgv = kgV(kgv, value);
     }
