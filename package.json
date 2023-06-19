@@ -1,0 +1,25 @@
+{
+  "name": "@raboro/kgv",
+  "bin": "src/index.js",
+  "version": "1.0.0",
+  "description": "calculate the kgV of values via CLI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raboro/kgV-CLI.git"
+  },
+  "keywords": [
+    "kgV",
+    "CLI",
+    "cli"
+  ],
+  "author": "Marius Wörfel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raboro/kgV-CLI/issues"
+  },
+  "homepage": "https://github.com/Raboro/kgV-CLI#readme"
+}
