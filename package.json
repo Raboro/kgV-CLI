@@ -23,6 +23,9 @@
     "url": "https://github.com/Raboro/kgV-CLI/issues"
   },
   "homepage": "https://github.com/Raboro/kgV-CLI#readme",
+  "dependencies": {
+    "yargs": "13.2"
+  },
   "devDependencies": {
     "eslint": "^8.34.0",
     "eslint-config-standard": "^17.0.0",
