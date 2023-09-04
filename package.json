@@ -1,7 +1,7 @@
 {
   "name": "@raboro/kgv",
   "bin": "src/index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculate the kgV of values via CLI",
   "main": "src/index.js",
   "scripts": {
