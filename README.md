@@ -1,5 +1,8 @@
 # kgV-CLI
 
+[![npm downloads](https://img.shields.io/npm/dt/@raboro/kgv.svg)](https://www.npmjs.com/package/@raboro/kgv)
+
+
 CLI tool to calculate kgV for multiple values
 
 ## Instruction guide
